@@ -1,6 +1,5 @@
 # noMarkZuck
-(pt-BR) Uma nova rede social segura e sem captura de dados sensíveis de usuários
-(en-US) A new secure social network without capturing sensitive user data
+A new secure social network without capturing sensitive user data
 
 ### Internationalization
 Data format for database structure
